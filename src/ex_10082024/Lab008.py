@@ -5,4 +5,4 @@ a, b, c = 60, 70, "Ankita"
 d, e, f = "Ankita", "Shravu", "Shopping"
 h = "Yes"
 print(e, b, c, a, d, f, sep="|", end=":")
-print("h")
+print(h)

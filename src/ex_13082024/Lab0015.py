@@ -4,7 +4,7 @@ User input - num int -> 10, 100, -1, 2, 3.14 -> input
 9x1 = 9
 9x2 = 18... till 10"""
 
-num = int(input("Enter the number for table"))
+num = float(input("Enter the number for table"))
 print(type(num))
 print(f"{num}*1={num*1}")
 print(f"{num}*2={num*2}")
